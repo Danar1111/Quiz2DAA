@@ -13,7 +13,7 @@ window.title("Minesweeper")
 # Grid number (grd x grd)
 grd = 9
 # Generate random mines
-mines_count = 9  # Number of mines (in 9x9 games, can place mines with 10 - 12 mines)
+mines_count = 12  # Number of mines (in 9x9 games, can place mines with 10 - 12 mines)
 mines_indices = np.random.choice((grd*grd), mines_count, replace=False)
 
 # Create the grid
