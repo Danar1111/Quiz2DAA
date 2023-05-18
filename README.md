@@ -15,6 +15,7 @@
 ---
 ## Contributions on Project
 <br />
+
 ADAM (50%) :
 
 -
@@ -23,9 +24,16 @@ ADAM (50%) :
 -
 
 <br />
+
 Danar (50%) :
 
 -
 -
 -
 -
+
+<br />
+
+---
+## Docs Link
+https://docs.google.com/document/d/1NevI-2bpCg6mF-BxYHjN7ZgtEtPu3-U8R1zE33jzM5Q/edit?usp=sharing
