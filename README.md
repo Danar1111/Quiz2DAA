@@ -30,7 +30,7 @@ Danar (50%) :
 <br />
 
 -	Making GUI
--	Making `click function`
+-	Making `click` function
 -	Making `on_click` function and update labels
 -	Making `count` function
 
