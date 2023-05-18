@@ -33,6 +33,7 @@ Danar (50%) :
 -	Making `count` function
 
 <br />
+For the rest including writing reports, debugging the code, brainstorming, and optimizing the program we do together by discussing through online meet and offline meet. the algorithm used in the main function, we search for and improve the code together (discuss and improve each other) to get optimal results on the algorithm that is run
 
 ---
 ## Docs Link
