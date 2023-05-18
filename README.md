@@ -38,6 +38,8 @@ Danar (50%) :
 
 For the rest including writing reports, debugging the code, brainstorming, and optimizing the program we do together by discussing through online meet and offline meet. the algorithm used in the main function, we search for and improve the code together (discuss and improve each other) to get optimal results on the algorithm that is run.
 
+<br />
+
 ---
 ## Docs Link
 https://docs.google.com/document/d/1NevI-2bpCg6mF-BxYHjN7ZgtEtPu3-U8R1zE33jzM5Q/edit?usp=sharing
