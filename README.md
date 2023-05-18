@@ -18,10 +18,10 @@
 
 ADAM (50%) :
 
--
--
--
--
+-	Making check_win
+-	Making reveal_neighbors
+-	Making reset_game()
+-	Making disable_grid()
 
 <br />
 
