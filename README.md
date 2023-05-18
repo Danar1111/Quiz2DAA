@@ -18,19 +18,19 @@
 
 ADAM (50%) :
 
--	Making check_win
--	Making reveal_neighbors
--	Making reset_game()
--	Making disable_grid()
+-	Making `check_win` function
+-	Making `reveal_neighbors` function
+-	Making `reset_game()` function
+-	Making `disable_grid()` function
 
 <br />
 
 Danar (50%) :
 
--
--
--
--
+-	Making GUI
+-	Making `click function`
+-	Making `on_click` function
+-	Making `count` function
 
 <br />
 
